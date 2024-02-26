@@ -1,1 +1,1 @@
-# mrecp
+# MRE console primitive
