@@ -1,0 +1,7 @@
+; Mrecp.def : Declares the module parameters for the DLL.
+
+LIBRARY      "Mrecp"
+DESCRIPTION  'Mrecp Windows Dynamic Link Library'
+
+EXPORTS
+    vm_entry @1
