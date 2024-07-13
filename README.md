@@ -7,5 +7,5 @@ Application file - "[Mrecp.vxp](https://github.com/RDZDX/mrecp/blob/main/Mrecp.v
 ![alt text](https://rdzdx.github.io/mrecp/picture.jpg)
 
 ## Authors:
-- [Ximik Boda](https://github.com/XimikBoda) - general code for Terminal emulator (from TelnetVXP)
+- [XimikBoda](https://github.com/XimikBoda) - general code for Terminal emulator (from TelnetVXP)
 - [RDZDX](https://github.com/RDZDX) - for adaptation
