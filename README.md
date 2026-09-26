@@ -4,7 +4,7 @@ first text line  from "Mrecp.txt" will be used as autostart command (if changing
 UP - line UP , DOWN - line DOWN, LEFT - page UP, RIGHT - page DOWN, LONG LEFT - HOME, LONG RIGHT - END. Tested on Nokia 225 with display resolution 240x320. 
 For using with Nokia mobile phone, app must be signed with IMSI (your SIM card) code.
 https://vxpatch.luxferre.top/
-Application file - "[Mrecp.vxp](https://github.com/RDZDX/mrecp/blob/main/Mrecp.vxp?raw=true)".
+Application file - "[Mrecp.vxp](https://rdzdx.github.io/mrecp/Mrecp.vxp)".
 ![alt text](https://rdzdx.github.io/mrecp/picture.jpg)
 
 ## Authors:
